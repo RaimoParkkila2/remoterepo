@@ -1,2 +1,2 @@
-"Raimo Parkkila testailee Git-versionhallintaa edelleen!"      
+"Raimo Parkkila testailee Git-versionhallintaa edelleen!"    
  
